@@ -1,0 +1,6 @@
+streamlit==1.49.1
+torch==2.8.0
+transformers==4.56.1
+joblib==1.5.2
+safetensors==0.6.2
+tokenizers==0.22.0
