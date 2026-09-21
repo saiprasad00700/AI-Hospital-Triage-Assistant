@@ -17,6 +17,14 @@ This project uses **BioClinicalBERT**, a medical-domain transformer model, to au
 
 ---
 
+## 🏗️ System Architecture
+
+The following architecture illustrates how patient symptom text flows through the NLP pipeline before producing the final medical intent.
+
+![Architecture](assets/architecture.png)
+
+---
+
 ## 📸 Application Screenshots
 
 ### Home Page
